@@ -1,0 +1,7 @@
+MeetUp Group: New York Open Statistical Programming Meetup
+Date:  May 15th, 2017 6:30pm
+Tittle: New York Open Statistical Programming Meetup 
+
+The meetup focussed on introduction of a technique called GAMLSS--Generalized Additive Models for Location, Scale, and Shape. It is a  forecasting technique that can be applied to problems that take the form of a count that accumulates up to a deadline, such as total monthly sales of a product, or student signups to an educational event before it starts. 
+In the talk, the speaker Harlan Harris described two real-world examples where this technique could be applied, and talked about the Bayesian approach that combined a prior distribution with a (mostly) principled, statistically honest extrapolation method.
+The technique can flexibly describe the shapes of the priors and temporal accumulation functions, and allow posterior predictive intervals that become more precise over time as information accumulates. Comparison with classic time series forecasting techniques and linear models was also presented.
